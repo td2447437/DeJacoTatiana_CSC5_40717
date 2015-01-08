@@ -21,27 +21,38 @@ int main(int argc, char** argv)
     float dimes  = 0.10f;
     float nicks  = 0.05f; // nickels
     
-    int input; // user's input
+    int   input; // user's input
     float sum;   // the sum a certain coin
     float total; // the sum of all coins
     
     // Calculate the total sum of all quarters
-    cout << "How many quarters are there? ";
-    cin  >> input;
+    cout  << "How many quarters are there? ";
+    cin   >> input;
     sum   = input * quarts;
     total = sum;
     // Calculate the total sum of all dimes
-    cout << "How many dimes are there? ";
-    cin >> input;
+    cout  << "How many dimes are there? ";
+    cin   >> input;
     sum   = input * dimes;
     total += sum;
     // Calculate the total sum of all nickels
-    cout << "How many nickels are there? ";
-    cin  >> input;
+    cout  << "How many nickels are there? ";
+    cin   >> input;
     sum   = input * nicks;
     total += sum;
     // Print the total value of all coins
-    cout << "The monetary value of the coins is: " << total << " cents";
+    if (total < 1.00)
+    {
+        cout << "The monetary value of the coins is: ";
+        printf("%.02f", total);
+        cout << " cent(s)";
+    }
+    else
+    {
+        cout << "The monetary value of the coins is: ";
+        printf("%.02f", total);
+        cout << " dollar(s)";
+    }
     
     return 0;
 }
