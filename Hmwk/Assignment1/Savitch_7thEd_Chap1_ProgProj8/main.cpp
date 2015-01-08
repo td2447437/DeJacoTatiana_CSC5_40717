@@ -12,6 +12,7 @@
  */
 
 #include <iostream>
+#include <cstdio>
 using namespace std;
 
 int main(int argc, char** argv) 
@@ -26,8 +27,8 @@ int main(int argc, char** argv)
     float total; // the sum of all coins
     
     // Calculate the total sum of all quarters
-    cout  << "How many quarters are there? ";
-    cin   >> input;
+    cout << "How many quarters are there? ";
+    cin  >> input;
     sum   = input * quarts;
     total = sum;
     // Calculate the total sum of all dimes

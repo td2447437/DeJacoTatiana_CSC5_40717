@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Tati
- * Created on January 6, 2015, 7:28 PM
+ * Created on January 6, 2015, 5:21 PM
  * 
  * Homework: 
  * Write a program that inputs a character from the keyboard and then outputs a 
