@@ -1,0 +1,5 @@
+Angle in degrees = 49
+Angle in radians = 0.855211
+sin(49) =   0.7547
+cos(49) =   0.6561
+tan(49) =   1.1504
