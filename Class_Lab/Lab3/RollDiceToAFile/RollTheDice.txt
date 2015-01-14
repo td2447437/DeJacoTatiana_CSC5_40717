@@ -1,1 +1,0 @@
- Yahtzee first roll = 1 2 6 3 2

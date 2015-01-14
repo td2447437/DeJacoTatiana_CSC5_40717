@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=rolldicetoafile
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/rolldicetoafile
+CND_ARTIFACT_NAME_Debug=rollthedicetoafile
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/rollthedicetoafile
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=rolldicetoafile.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/rolldicetoafile.tar
+CND_PACKAGE_NAME_Debug=rollthedicetoafile.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/rollthedicetoafile.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=rolldicetoafile
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/rolldicetoafile
+CND_ARTIFACT_NAME_Release=rollthedicetoafile
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/rollthedicetoafile
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=rolldicetoafile.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/rolldicetoafile.tar
+CND_PACKAGE_NAME_Release=rollthedicetoafile.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/rollthedicetoafile.tar
 #
 # include compiler specific variables
 #

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     // Declare 5 dice
     unsigned short die1, die2, die3, die4, die5;
     // Set the values for each dice
-    die1 = rand() % 6 + 1;
+    die1 = rand() % 6 + 1; // gives # from 1 to 6
     die2 = rand() % 6 + 1;
     die3 = rand() % 6 + 1;
     die4 = rand() % 6 + 1;
