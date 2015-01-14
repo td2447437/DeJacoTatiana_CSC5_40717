@@ -17,8 +17,9 @@ using namespace std;
 // User Libraries
 
 // Global Constants
-const float PIDIV4 = atan(1);        // pi divided by 4
-const float CONVERSION = PIDIV4/45; // from degrees to radians
+const float PIDIV4 = atan(1);        // pi/4 = atan(1)
+const float CONVERSION = PIDIV4/45; // pi/4/45 
+
 // Function Prototypes
 
 int main(int argc, char** argv) 
