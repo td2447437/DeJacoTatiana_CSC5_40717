@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=final_project1
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/final_project1
+CND_ARTIFACT_NAME_Debug=project2_cleanup
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/project2_cleanup
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=finalproject1.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/finalproject1.tar
+CND_PACKAGE_NAME_Debug=project2cleanup.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/project2cleanup.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=final_project1
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/final_project1
+CND_ARTIFACT_NAME_Release=project2_cleanup
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/project2_cleanup
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=finalproject1.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/finalproject1.tar
+CND_PACKAGE_NAME_Release=project2cleanup.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/project2cleanup.tar
 #
 # include compiler specific variables
 #

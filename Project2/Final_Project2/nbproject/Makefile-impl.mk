@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Final_Project1
+PROJECTNAME=Project2_Cleanup
 
 # Active Configuration
 DEFAULTCONF=Debug
