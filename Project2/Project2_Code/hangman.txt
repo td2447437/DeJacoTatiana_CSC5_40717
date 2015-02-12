@@ -1,0 +1,5 @@
+Your Results per Game Played: 
+
+Word           Result    Score
+mouth          Lost      -6  
+
